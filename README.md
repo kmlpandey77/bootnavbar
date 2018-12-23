@@ -13,7 +13,7 @@ To use bootnavbar in your website, simply drop the stylesheet into your document
 
 ```html
 <head>
-  <link rel="stylesheet" href="bootnavbar.css">
+  <link rel="stylesheet" href="css/bootnavbar.css">
 </head>
 ```
 
