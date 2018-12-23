@@ -9,7 +9,7 @@ Multi level hover dropdown Navbar for bootstrap 4
 
 
 ## Usage
- To use bootnavbar in your website, simply drop the stylesheet into your document's <head>.
+To use bootnavbar in your website, simply drop the stylesheet into your document's `<head>`.
 
 ```html
 <head>
@@ -17,7 +17,8 @@ Multi level hover dropdown Navbar for bootstrap 4
 </head>
 ```
 
- And, simply drop the JS into your document's <body>.
+
+And, simply drop the JS into your document's `<body>`.
 
 ```html
 <body>
