@@ -33,4 +33,4 @@ And, simply drop the JS into your document's `<body>`.
 <body>
 ```
  
-[view domo](https://kmlpandey77.github.io/bootnavbar/)
+[View Demo](https://kmlpandey77.github.io/bootnavbar/)

@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/bootnavbar.css">
 
-    <title>Bootstrap Navbar</title>
+    <title>Multi level hover dropdown Navbar for bootstrap 4</title>
+    <meta name="description" content="Multi level hover dropdown Navbar for bootstrap 4">
+    <meta name="keywords" content="Multi level hover dropdown Navbar for bootstrap 4">
 </head>
 
 <body>
@@ -29,32 +31,32 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Link</a>
                 </li>
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown show">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false">
                         Dropdown
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu show" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Action</a></li>
                         <li><a class="dropdown-item" href="#">Another action</a></li>
                         <div class="dropdown-divider"></div>
                         <li></li><a class="dropdown-item" href="#">Something else here</a></li>
-                        <li class="nav-item dropdown">
-                                <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                        <li class="nav-item dropdown show">
+                                <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">
                                     Dropdown
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <ul class="dropdown-menu show" aria-labelledby="navbarDropdown1">
                                     <li><a class="dropdown-item" href="#">Action</a></li>
                                     <li><a class="dropdown-item" href="#">Another action</a></li>
                                     <div class="dropdown-divider"></div>
                                     <li></li><a class="dropdown-item" href="#">Something else here</a></li>              
-                                    <li class="nav-item dropdown">
-                                            <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                    <li class="nav-item dropdown show">
+                                            <a class="dropdown-item dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-toggle="dropdown"
                                                 aria-haspopup="true" aria-expanded="false">
                                                 Dropdown
                                             </a>
-                                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                            <ul class="dropdown-menu show" aria-labelledby="navbarDropdown2">
                                                 <li><a class="dropdown-item" href="#">Action</a></li>
                                                 <li><a class="dropdown-item" href="#">Another action</a></li>
                                                 <div class="dropdown-divider"></div>
@@ -83,7 +85,7 @@
     <script src="js/bootnavbar.js" ></script>
     <script>
         $(function () {
-            $('#main_navbar').bootnavbar();
+            // $('#main_navbar').bootnavbar();
         })
     </script>
 </body>
