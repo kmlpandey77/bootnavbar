@@ -1,7 +1,10 @@
-# bootnavbar
+# BootBavbar
 Multi level hover dropdown Navbar for bootstrap 4
 
-![Multi level hover dropdown Navbar for bootstrap 4](https://raw.githubusercontent.com/kmlpandey77/bootnavbar/master/Preview.png "Preview")
+
+
+## Preview
+![Multi level hover dropdown Navbar for bootstrap 4](https://raw.githubusercontent.com/kmlpandey77/bootnavbar/master/Preview.png "Navbar Preview")
 
 
 ## Rquirement
