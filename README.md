@@ -62,22 +62,26 @@ And,  `html`.
 ## Options
 
 **animation**
+
 Type: `String\Boolean`
+
 Default: `true`
 
 Enable/Disable animation effect
 
 
+
 **animateIn**
+
 Type: `String`
+
 Default: `'fadeIn'`
 
 Value: `'slideInUp'`,`'zoomIn'`
 
+
+
 View more option in [animate.css](https://daneden.github.io/animate.css)
 
-
-
-
  
-[View Demo](https://kmlpandey77.github.io/bootnavbar/)
+[View Demo](https://kmlpandey77.github.io/bootnavbar)

@@ -6,8 +6,7 @@
         xl : 1140,
         navbar_expand: 'lg',
         animation: true,
-        animationIn: 'fadeIn',
-        animationOut: 'fadeOut'
+        animateIn: 'fadeIn',
     };
     $.fn.bootnavbar = function(options) {
 
@@ -19,7 +18,7 @@
                 $(this).addClass('show');
                 $(this).find('.dropdown-menu').first().addClass('show');
                 if(settings.animation){
-                    $(this).find('.dropdown-menu').first().addClass('animated ' + settings.animationIn);
+                    $(this).find('.dropdown-menu').first().addClass('animated ' + settings.animateIn);
                 }
             }, function() {
                 $(this).removeClass('show');
