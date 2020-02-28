@@ -1,5 +1,5 @@
 # BootNavbar
-Multi level hover dropdown Navbar for bootstrap 4
+Bootstrap 4 Responsive Navbar with Multi level Dropdowns
 
 
 
