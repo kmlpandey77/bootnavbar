@@ -13,6 +13,10 @@
     margin:0 20px;
     border-width: 0;
 }
+.dropdown-menu .dropdown .dropdown-menu.left {
+    right: 100%;
+    left: auto;
+}
 
 .dropdown-menu > li a:hover,
 .dropdown-menu > li.show {
