@@ -18,7 +18,7 @@ To use bootnavbar in your website, simply drop the stylesheet into your document
 
 ```html
 <head>
-  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/bootnavbar.css">
 </head>
@@ -38,7 +38,12 @@ And, simply drop the JS into your document's `<body>`.
     <script src="js/bootnavbar.js" ></script>
     <script>
         $(function () {
-            $('#bootnavbar').bootnavbar();
+            $('#bootnavbar').bootnavbar({
+              //options
+
+              //animation: false
+
+            });
         })
     </script>
 <body>
@@ -52,5 +57,27 @@ And,  `html`.
   ...
 </nav>
 ```
+
+
+## Options
+
+*animation*
+Type: `String\Boolean`
+Default: `true`
+
+Enable/Disable animation effect
+
+
+*animateIn*
+Type: `String`
+Default: `'fadeIn'`
+
+Value: `'slideInUp'`,`'zoomIn'`
+
+View more option in [animate.css](https://daneden.github.io/animate.css)
+
+
+
+
  
 [View Demo](https://kmlpandey77.github.io/bootnavbar/)

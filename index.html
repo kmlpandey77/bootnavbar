@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/daneden/animate.css/master/animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" href="css/bootnavbar.css">
 
     <title>Multi level hover dropdown Navbar for bootstrap 4</title>
@@ -96,7 +95,10 @@
     <script src="js/bootnavbar.js" ></script>
     <script>
         $(function () {
-            $('#main_navbar').bootnavbar();
+            $('#main_navbar').bootnavbar({
+                //option
+                //animation: false
+            });
         })
     </script>
 </body>
