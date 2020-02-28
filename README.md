@@ -61,14 +61,14 @@ And,  `html`.
 
 ## Options
 
-*animation*
+**animation**
 Type: `String\Boolean`
 Default: `true`
 
 Enable/Disable animation effect
 
 
-*animateIn*
+**animateIn**
 Type: `String`
 Default: `'fadeIn'`
 
