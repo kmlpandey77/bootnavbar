@@ -65,7 +65,7 @@ And,  `html`.
 
 **animation**
 
-Type: `String\Boolean`
+Type: `Boolean`
 
 Default: `true`
 
