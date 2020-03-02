@@ -1,6 +1,8 @@
 # BootNavbar
 Bootstrap 4 Responsive Navbar with Multi level Dropdowns
 
+This is fully responsive multilevel dropdown navbar. It is also called treeview menu.dropdown submenus opened by hover effect.
+
 
 
 ## Preview
