@@ -1,7 +1,12 @@
 # BootNavbar
+
+<img src="https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic" />
+
+
 Bootstrap 4 Responsive Navbar with Multi level Dropdowns
 
 This is fully responsive multilevel dropdown navbar. It is also called treeview menu and dropdown opened on hover.
+
 
 
 
