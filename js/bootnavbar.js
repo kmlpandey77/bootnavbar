@@ -11,7 +11,7 @@
     $.fn.bootnavbar = function(options) {
 
         var screen_width = $(document).width();
-        settings = $.extend(defaults, options);
+        var settings = $.extend(defaults, options);
 
         if(screen_width >= settings.lg){
             $(this).find('.dropdown').hover(function() {
