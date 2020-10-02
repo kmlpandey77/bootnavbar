@@ -1,23 +1,39 @@
 # BootNavbar
 
-<img src="https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic" />
+![license](https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic)
 
-
-Bootstrap 4 Responsive Navbar with Multi level Dropdowns
-
-This is fully responsive multilevel dropdown navbar. It is also called treeview menu and dropdown opened on hover.
-
+> Bootstrap 4 Responsive Navbar with Multi level Dropdowns \
+> This is fully responsive multilevel dropdown (treeview menu) navbar opened on hover.
 
 
 
 ## Preview
 ![Multi level hover dropdown Navbar for bootstrap 4](https://raw.githubusercontent.com/kmlpandey77/bootnavbar/master/Preview.png "Navbar Preview")
 
+## Demo
+[View Demo](https://kmlpandey77.github.io/bootnavbar)
+
 
 ## Rquirement
 	jQuery
 	boostrap 4
-	animated.css
+	animated.css // 
+
+## Download
+[Download source](https://github.com/kmlpandey77/bootnavbar/archive/1.0.1.zip)
+
+## CDN
+
+#### css
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/css/bootnavbar.css">
+
+```
+
+#### js
+```html
+<script src="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar/js/bootnavbar.js"></script>
+```	
 
 
 ## Usage
@@ -88,7 +104,5 @@ Value: `'slideInUp'`,`'zoomIn'`
 
 
 
-View more option in [animate.css](https://daneden.github.io/animate.css)
+View more option in [animate.css](https://daneden.github.io/animate.css) 
 
- 
-[View Demo](https://kmlpandey77.github.io/bootnavbar)
