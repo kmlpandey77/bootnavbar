@@ -2,27 +2,42 @@
 
 ![license](https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic)
 
-> Bootstrap 4 Responsive Navbar with Multi level Dropdowns \
-> This is fully responsive multilevel dropdown (treeview menu) navbar opened on hover.
+Table of contents:
+* [Introduction](#introduction)
+* [Preview](#preview)
+* [Demo](#bootnavbar-demo)
+* [Requirement](#requirement)
+* [Download](#Download)
+* [BootNavbar CDN](#bootnavbar-cdn)
+	* [CSS](#css)
+	* [JS](#js)
+* [How to Use](#how-to-use)
+* [Options](#options)
+
+
+##Introduction
+
+> Bootstrap 4 Responsive Navbar with Multi-level Dropdowns \
+> This is a fully responsive multilevel dropdown (Treeview menu) navbar opened on hover.
 
 
 
 ## Preview
 ![Multi level hover dropdown Navbar for bootstrap 4](https://raw.githubusercontent.com/kmlpandey77/bootnavbar/master/Preview.png "Navbar Preview")
 
-## Demo
+## BootNavbar Demo
 [View Demo](https://kmlpandey77.github.io/bootnavbar)
 
 
-## Rquirement
+## Requirement
 	jQuery
 	boostrap 4
-	animated.css // 
+	animated.css
 
 ## Download
 [Download source](https://github.com/kmlpandey77/bootnavbar/archive/1.0.1.zip)
 
-## CDN
+## BootNavbar CDN
 
 #### css
 ```html
@@ -36,8 +51,8 @@
 ```	
 
 
-## Usage
-To use bootnavbar in your website, simply drop the stylesheet into your document's `<head>`.
+## How to use
+To use BootNavbar on your website, simply drop the stylesheet into your document's `<head>`.
 
 ```html
 <head>
@@ -72,7 +87,7 @@ And, simply drop the JS into your document's `<body>`.
 <body>
 ```
 
-And,  `html`.
+And,  `HTML`.
 
 ```html
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="bootnavbar">
@@ -105,4 +120,3 @@ Value: `'slideInUp'`,`'zoomIn'`
 
 
 View more option in [animate.css](https://daneden.github.io/animate.css) 
-
