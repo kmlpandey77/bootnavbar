@@ -1,0 +1,20 @@
+{
+  "name": "bootnavbar",
+  "version": "2.0.0",
+  "description": "![license](https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmlpandey77/bootnavbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmlpandey77/bootnavbar/issues"
+  },
+  "homepage": "https://github.com/kmlpandey77/bootnavbar#readme", 
+}
