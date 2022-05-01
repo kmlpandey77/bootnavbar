@@ -36,7 +36,7 @@ use [v1.0.2](https://github.com/kmlpandey77/bootnavbar/releases/tag/v1.0.2) for 
 	animated.css
 
 ## Download
-[Download source](https://github.com/kmlpandey77/bootnavbar/archive/1.0.1.zip)
+[Download source](https://github.com/kmlpandey77/bootnavbar/archive/refs/tags/v1.1.0.zip)
 
 ## BootNavbar CDN
 
