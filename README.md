@@ -20,7 +20,7 @@
 > Bootstrap 5 Responsive Navbar with Multi-level Dropdowns
 > This is a fully responsive multilevel dropdown (Treeview menu) navbar opened on hover.
 
-> :warning: **If you are using Boostrap 4** use [v1.0.2](https://github.com/kmlpandey77/bootnavbar/releases/tag/v1.0.2) and read [docs]('/README-BOOTSTRAP-4.md')
+> :warning: **If you are using Boostrap 4** use [v1.0.2](https://github.com/kmlpandey77/bootnavbar/releases/tag/v1.0.2) and read [docs](./README-BOOTSTRAP-4.md)
 
 ## Preview
 
