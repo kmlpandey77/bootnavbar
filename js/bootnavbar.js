@@ -29,7 +29,6 @@ function bootnavbar(el = 'main_navbar', options){
 
     this.init = function(){
         var dropdowns = document.getElementById(el).getElementsByClassName("dropdown");
-        console.log(dropdowns);
         for (var i = 0; i < dropdowns.length; i++) {
             var dropdown = dropdowns.item(i);
             dropdown.addEventListener("mouseover", function(){
@@ -40,17 +39,7 @@ function bootnavbar(el = 'main_navbar', options){
                 this.classList.remove('show');
                 this.getElementsByClassName("dropdown-menu")[0].classList.remove('show');
             });
-        }
-        // document.getElementById(el).getElementsByClassName("dropdown").forEach(dropdown => {
-        //     dropdown.addEventListener("mouseover", function(){
-        //         dropdown.classList.add('show');
-        //         dropdown.getElementsByClassName("dropdown-menu")[0].classList.add('show');
-        //     });
-        //     dropdown.addEventListener("mouseout", function(){
-        //         dropdown.classList.remove('show');
-        //         dropdown.getElementsByClassName("dropdown-menu")[0].classList.remove('show');
-        //     });
-        // });
+        }       
     }
 
     this.init();    
