@@ -80,9 +80,7 @@ And, simply drop the JS into your document's `<body>`.
   <script src="js/bootstrap.min.js"></script>
   <script src="js/bootnavbar.js"></script>
   <script>
-    $(function () {
-      new bootnavbar();
-    });
+    new bootnavbar();
   </script>
 </body>
 ```
