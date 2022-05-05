@@ -98,19 +98,31 @@ And, `HTML`.
 ## Options
 
 **Selector**
+
 Key: `selector`
+
 Type: `String`
+
 Default: `main_navbar`
+
 `selector` must be in `id` tag
 
 **Animation**
+
 Key: `animation`
+
 Type: `Boolean`
+
 Default: `true`
+
 Enable/Disable animation effect
 
 **Animate In**
+
 Key: `animateIn`
+
 Type: `String`
-Default: `'fadeIn'`
-Value can be `'slideInUp'`,`'zoomIn'` and for more option visit [animate.css](https://daneden.github.io/animate.css)
+
+Default: `'animate__fadeIn'`
+
+Value can be `'animate__slideInUp'`,`'animate__zoomIn'` and for more option visit [animate.css](https://daneden.github.io/animate.css)
