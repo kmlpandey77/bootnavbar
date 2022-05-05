@@ -37,7 +37,7 @@
 
 ## Download
 
-[Download source](https://github.com/kmlpandey77/bootnavbar/archive/refs/tags/v1.1.0.zip)
+[Download source](https://github.com/kmlpandey77/bootnavbar/archive/refs/tags/v1.1.1.zip)
 
 ## BootNavbar CDN
 
@@ -46,14 +46,14 @@
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar@v1.1.0/css/bootnavbar.css"
+  href="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar@v1.1.1/css/bootnavbar.css"
 />
 ```
 
 #### js
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar@v1.1.0/js/bootnavbar.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kmlpandey77/bootnavbar@v1.1.1/js/bootnavbar.js"></script>
 ```
 
 ## How to use
@@ -98,19 +98,31 @@ And, `HTML`.
 ## Options
 
 **Selector**
+
 Key: `selector`
+
 Type: `String`
+
 Default: `main_navbar`
+
 `selector` must be in `id` tag
 
 **Animation**
+
 Key: `animation`
+
 Type: `Boolean`
+
 Default: `true`
+
 Enable/Disable animation effect
 
 **Animate In**
+
 Key: `animateIn`
+
 Type: `String`
-Default: `'fadeIn'`
-Value can be `'slideInUp'`,`'zoomIn'` and for more option visit [animate.css](https://daneden.github.io/animate.css)
+
+Default: `'animate__fadeIn'`
+
+Value can be `'animate__slideInUp'`,`'animate__zoomIn'` and for more option visit [animate.css](https://daneden.github.io/animate.css)
