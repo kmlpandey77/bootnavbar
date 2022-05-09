@@ -1,7 +1,7 @@
 {
   "name": "bootnavbar",
   "version": "2.0.0",
-  "description": "![license](https://img.shields.io/github/license/kmlpandey77/bootnavbar?style=plastic)",
+  "description": "bootnavbar",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
